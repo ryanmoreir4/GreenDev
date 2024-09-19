@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-O **Green Dev** é um site com foco em fornecer informações sobre práticas sustentáveis e a indicação de produtos ecologicamente responsáveis. O projeto está alinhado com diversos Objetivos de Desenvolvimento Sustentável (ODS), estabelecidos pela ONU, como parte da Agenda 2030. Nosso objetivo é conscientizar a população sobre consumo consciente e reduzir o impacto ambiental, incentivando o uso de produtos sustentáveis.
+Desenvolvido por alunos da Faculdade PUC Minas, o **Green Dev** é um projeto com foco em fornecer informações sobre práticas sustentáveis e a indicação de produtos ecologicamente responsáveis. Nosso objetivo é conscientizar a população sobre consumo consciente e reduzir o impacto ambiental, incentivando o uso de produtos sustentáveis.
 
 ## <a href="https://brasil.un.org/pt-br/sdgs" target="_blank">ODS</a> Alinhados
 
